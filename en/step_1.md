@@ -1,59 +1,13 @@
-## Introduction
+![The 'Add file' button in the Editor.](images/addFileHighlighted.png)
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+**Click:** the '+ Add file' button.
 
-### What you will make
+![The 'Add file' button.](images/addFile.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Name your new file (e.g. `about.html`) and click the 'Add file' button.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![The 'Add file' dialog window.](images/addFilePopup.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Your file will appear in the 'Project files' list on the left.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![The 'Project files' list showing the new file 'about.html' highlighted.](images/about-file.png)
