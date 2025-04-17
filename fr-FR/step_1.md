@@ -1,6 +1,6 @@
 ![Le bouton "Add file" dans l'Editor.](images/addFileHighlighted.png)
 
-**Click** the '+ Add file' button.
+**Clique** le bouton '+ Add file'.
 
 ![Le bouton "Add file".](images/addFile.png)
 
