@@ -1,13 +1,13 @@
-![The 'Add file' button in the Editor.](images/addFileHighlighted.png)
+![De knop 'Add file' in de Editor.](images/addFileHighlighted.png)
 
-**Click:** the '+ Add file' button.
+**Klik:** op de knop **+ Add file**.
 
-![The 'Add file' button.](images/addFile.png)
+![De knop 'Add file'.](images/addFile.png)
 
-Name your new file (e.g. `about.html`) and click the 'Add file' button.
+Geef jouw nieuwe bestand een naam (bijv. `about.html`) en klik op de knop **Add file**.
 
-![The 'Add file' dialog window.](images/addFilePopup.png)
+![Het dialoogvenster 'Add file'.](images/addFilePopup.png)
 
-Your file will appear in the 'Project files' list on the left.
+Je bestand wordt weergegeven in de lijst 'Project files' aan de linkerkant.
 
-![The 'Project files' list showing the new file 'about.html' highlighted.](images/about-file.png)
+![De lijst 'Project files' toont het nieuwe bestand 'about.html' gemarkeerd.](images/about-file.png)
