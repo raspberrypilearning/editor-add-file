@@ -1,6 +1,6 @@
 ![De knop 'Add file' in de Editor.](images/addFileHighlighted.png)
 
-**Klik:** op de knop **+ Add file**.
+**Click** the '+ Add file' button.
 
 ![De knop 'Add file'.](images/addFile.png)
 
